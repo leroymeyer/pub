@@ -425,11 +425,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-0 .navbar-toggler {
-  color: #c0c9ff;
+  color: #2b0680;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #c0c9ff;
+  color: #2b0680;
   font-family: 'Lora', serif;
 }
 #menu-0 .link {
@@ -462,7 +462,7 @@ h6,
   background: #96a8ff;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #c0c9ff;
+  color: #2b0680;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -484,7 +484,7 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #c0c9ff;
+  background-color: #2b0680;
 }
 #header2-3 H3 {
   text-align: center;
@@ -511,11 +511,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-k .navbar-toggler {
-  color: #c0c9ff;
+  color: #2b0680;
 }
 #menu-k .link,
 #menu-k .dropdown-item {
-  color: #c0c9ff;
+  color: #2b0680;
   font-family: 'Lora', serif;
 }
 #menu-k .link {
@@ -548,7 +548,7 @@ h6,
   background: #96a8ff;
 }
 #menu-k .bg-color.transparent .link {
-  color: #c0c9ff;
+  color: #2b0680;
   transition: none;
 }
 #menu-k .bg-color.transparent.opened .link {
@@ -570,7 +570,7 @@ h6,
 }
 #menu-k .close-icon::before,
 #menu-k .close-icon::after {
-  background-color: #c0c9ff;
+  background-color: #2b0680;
 }
 
 

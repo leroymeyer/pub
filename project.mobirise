@@ -22,18 +22,16 @@
     },
     "versionFirst": "3.9.2",
     "uniqCompNum": 26,
-    "versionPublish": "3.9.2",
+    "versionPublish": "3.10.3",
     "favicon": "",
-    "noImageResize": "",
-    "publishType": "github",
-    "publishPath": "file:///Users/leroymeyer/Documents/Website%20beeldbank"
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Meyer Leroy",
+        "meta_descr": "Meyer Leroy, ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -52,10 +50,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#c0c9ff"
+              "color": "#2b0680"
             },
             ".link, .dropdown-item": {
-              "color": "#c0c9ff",
+              "color": "#2b0680",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-family": "'Lora', serif"
             },
@@ -78,7 +76,7 @@
               "background": "#96a8ff"
             },
             ".bg-color.transparent .link": {
-              "color": "#c0c9ff",
+              "color": "#2b0680",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -98,7 +96,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#c0c9ff"
+              "background-color": "#2b0680"
             }
           },
           "_name": "menu",
@@ -140,7 +138,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-target mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 55px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 50px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/lrymyr/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-soundcloud mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://meyerleroy.tumblr.com\" target=\"_blank\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-target mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 55px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 50px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/lrymyr/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\"><span class=\"socicon socicon-soundcloud mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://meyerleroy.tumblr.com\" target=\"_blank\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -167,6 +165,7 @@
           },
           "_anchor": "header2-3",
           "_params": {
+            "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/geel-2000x1415-32.jpg",
@@ -213,14 +212,16 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Meyer <br>Leroy</span>",
-          "text": "Luca School of Arts, Ghent, Belgium<br>♧ Grafisch Ontwerp &nbsp;&nbsp;<br>♤Fotografie &nbsp;<br>♢Tekeningen<br>&nbsp;<br>Ik ben Leroy. De dagelijkse sleur combineer ik met te dromen over mijn artistieke prestaties, maar de werkelijkheid raakt deze dromen zoveel als er een vallende ster valt.&nbsp;<br>",
+          "text": "Luca School of Arts, Ghent, Belgium<br>♧ Grafisch Ontwerp &nbsp;&nbsp;<br>♤Fotografie &nbsp;<br>&nbsp;<br>Ik ben Leroy. De dagelijkse sleur combineer ik met te dromen over mijn artistieke prestaties, maar de werkelijkheid raakt deze dromen zoveel als er een vallende ster valt.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 7px; color: rgb(61, 142, 185);\"></span>MORE</a>"
         }
       ]
     },
     "Foto": {
       "settings": {
-        "order": 3
+        "order": 3,
+        "meta_descr": "Meyer Leroy, Foto, 2015-1016, Bonaire, IJsland, Lifou.",
+        "title": "Meyer Leroy"
       },
       "components": [
         {
@@ -235,10 +236,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#c0c9ff"
+              "color": "#2b0680"
             },
             ".link, .dropdown-item": {
-              "color": "#c0c9ff",
+              "color": "#2b0680",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-family": "'Lora', serif"
             },
@@ -261,7 +262,7 @@
               "background": "#96a8ff"
             },
             ".bg-color.transparent .link": {
-              "color": "#c0c9ff",
+              "color": "#2b0680",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -281,7 +282,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#c0c9ff"
+              "background-color": "#2b0680"
             }
           },
           "_tags": [
@@ -326,7 +327,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-target mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 55px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 50px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/lrymyr/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-soundcloud mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://meyerleroy.tumblr.com\" target=\"_blank\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-target mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 55px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 50px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/lrymyr/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\"><span class=\"socicon socicon-soundcloud mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://meyerleroy.tumblr.com\" target=\"_blank\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -477,7 +478,9 @@
     },
     "grafisch": {
       "settings": {
-        "order": 2
+        "order": 2,
+        "meta_descr": "Meyer Leroy, Grafisch werk, 2016.",
+        "title": "Meyer Leroy"
       },
       "components": [
         {
@@ -575,7 +578,7 @@
               "linkInNewWindow": false,
               "name": "sad",
               "family": "et-line",
-              "link": "",
+              "link": "index.html",
               "size": 50,
               "newWindow": false,
               "color": "#ffea00",
@@ -583,7 +586,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-target mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 55px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 50px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/lrymyr/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-soundcloud mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://meyerleroy.tumblr.com\" target=\"_blank\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-target mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 55px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 50px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/lrymyr/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\"><span class=\"socicon socicon-soundcloud mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://meyerleroy.tumblr.com\" target=\"_blank\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -597,7 +600,7 @@
             "timeout": "6",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/11istanbul-ekspres-finish-leroy-3-2000x2889-58.jpg",
                 "playVideo": false,
                 "videoUrl": "",
@@ -653,6 +656,34 @@
                 "text": "",
                 "showButtons": false,
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-15-om-23-2000x2793-67.png",
+                "playVideo": false,
+                "videoUrl": "",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-15-om-23-2000x2794-3.png",
+                "playVideo": false,
+                "videoUrl": "",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,
