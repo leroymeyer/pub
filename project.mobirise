@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "grafisch",
+    "currentPage": "Foto",
     "name": "Leroy Meyer",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 26,
+    "uniqCompNum": 27,
     "versionPublish": "3.10.3",
     "favicon": "",
     "noImageResize": ""
@@ -102,7 +102,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#96a8ff",
+            "bgColor": "#ffffff",
             "fontSize": "1.4",
             "fontName": {
               "name": "Lora",
@@ -111,7 +111,7 @@
             },
             "fontColor": "#2b0680",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -138,7 +138,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-target mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 55px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 50px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/lrymyr/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\"><span class=\"socicon socicon-soundcloud mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://meyerleroy.tumblr.com\" target=\"_blank\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-target mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 55px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 50px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/lrymyr/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\"><span class=\"socicon socicon-soundcloud mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://meyerleroy.tumblr.com\" target=\"_blank\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -212,7 +212,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Meyer <br>Leroy</span>",
-          "text": "Luca School of Arts, Ghent, Belgium<br>♧ Grafisch Ontwerp &nbsp;&nbsp;<br>♤Fotografie &nbsp;<br>&nbsp;<br>Ik ben Leroy. De dagelijkse sleur combineer ik met te dromen over mijn artistieke prestaties, maar de werkelijkheid raakt deze dromen zoveel als er een vallende ster valt.&nbsp;<br>",
+          "text": "Luca School of Arts, Ghent, Belgium<br>♧ Grafisch Ontwerp &nbsp;&nbsp;<br>♤Fotografie &nbsp;<br>&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 7px; color: rgb(61, 142, 185);\"></span>MORE</a>"
         }
       ]
@@ -253,13 +253,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#637eff"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#879bff!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#96a8ff"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#2b0680",
@@ -291,7 +291,7 @@
           "_name": "menu",
           "_anchor": "menu-k",
           "_params": {
-            "bgColor": "#96a8ff",
+            "bgColor": "#ffffff",
             "fontSize": "1.4",
             "fontName": {
               "name": "Lora",
@@ -300,7 +300,7 @@
             },
             "fontColor": "#2b0680",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -327,152 +327,159 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-target mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 55px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 50px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/lrymyr/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\"><span class=\"socicon socicon-soundcloud mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://meyerleroy.tumblr.com\" target=\"_blank\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-target mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 55px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 50px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/lrymyr/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\"><span class=\"socicon socicon-soundcloud mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://meyerleroy.tumblr.com\" target=\"_blank\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "slider",
+          "_name": "gallery1",
           "_params": {
-            "autoplay": true,
             "paddingTop": "4",
-            "paddingBottom": "0",
-            "timeout": 5,
-            "slides": [
+            "paddingBottom": 0,
+            "images": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/dscf1932druk-2000x1428-35.jpg",
+                "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscf1941-2000x3745-56-800x1498-29.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscf1941-2000x3745-56.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dscf4871-2000x1333-74.jpg",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscf1932druk-2000x1428-2-800x571-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscf1932druk-2000x1428-2.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-0556-2000x3011-88.jpg",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscf1913druk-2000x1428-37-800x571-41.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscf1913druk-2000x1428-37.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/ies-zee-2000x1328-92.jpg",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscf4871-2000x1333-32-800x533-92.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscf4871-2000x1333-32.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-0595-stromend-w-2000x1213-77.jpg",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscsf4602-2000x1333-6-800x533-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscsf4602-2000x1333-6.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dscf2470-2000x1333-36.jpg",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscf4847s-2000x3000-86-800x1200-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscf4847s-2000x3000-86.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/vlag-2000x1313-43.jpg",
+                "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscsf4840-2000x3000-18-800x1200-98.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscsf4840-2000x3000-18.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/vloeiende-zee-2000x1328-19.jpg",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ies-zee-2000x1328-33-800x531-55.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ies-zee-2000x1328-33.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dscf4847s-2000x3000-39.jpg",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0595-stromend-w-2000x1213-25-800x485-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0595-stromend-w-2000x1213-25.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/watervall-kopie-2000x2089-31-800x835-7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/watervall-kopie-2000x2089-31.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0556-2000x3010-22-800x1204-79.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0556-2000x3010-22.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0004-2000x1328-6-800x531-44.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0004-2000x1328-6.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vlag-2000x1313-2-800x525-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vlag-2000x1313-2.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
-            "fullScreen": false,
-            "bgColor": "#ffffff",
-            "showBullets": true
+            "spacing": "4",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": false
           },
-          "_anchor": "slider-m",
-          "articleLayout": false
+          "_anchor": "gallery1-q",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     },
@@ -550,7 +557,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#96a8ff",
+            "bgColor": "#ffffff",
             "fontSize": "1.4",
             "fontName": {
               "name": "Lora",
@@ -559,7 +566,7 @@
             },
             "fontColor": "#2b0680",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -586,7 +593,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-target mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 55px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 50px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/lrymyr/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\"><span class=\"socicon socicon-soundcloud mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://meyerleroy.tumblr.com\" target=\"_blank\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-target mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 55px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 50px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/lrymyr/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\"><span class=\"socicon socicon-soundcloud mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://meyerleroy.tumblr.com\" target=\"_blank\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
