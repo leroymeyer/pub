@@ -10,12 +10,12 @@
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
-        "warningColor": "#000000",
+        "warningColor": "#ffef00",
         "dangerColor": "#f28281",
         "titleFont": "Noto Sans",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       }
@@ -138,7 +138,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"true\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 50px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/lrymyr/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\"><span class=\"socicon socicon-soundcloud mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://meyerleroy.tumblr.com\" target=\"_blank\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/lrymyr/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\"><span class=\"socicon socicon-soundcloud mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://meyerleroy.tumblr.com\" target=\"_blank\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -486,6 +486,11 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
           "_anchor": "features1-w",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -581,12 +586,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         }
       ]
     },
@@ -700,7 +700,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"true\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 50px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/lrymyr/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\"><span class=\"socicon socicon-soundcloud mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://meyerleroy.tumblr.com\" target=\"_blank\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px; color: rgb(255, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/lrymyr/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\"><span class=\"socicon socicon-soundcloud mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px; color: rgb(255, 0, 0);\"></span></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://meyerleroy.tumblr.com\" target=\"_blank\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 34px; color: rgb(255, 0, 0);\"></span></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -710,7 +710,7 @@
           "_name": "gallery4",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": 0,
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Istanbul Ekspres",
@@ -800,7 +800,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/7-herbarium-finish-106-2000x1309-800x523.jpg",
                 "image": "@PROJECT_PATH@/assets/images/7-herbarium-finish-106-2000x1309.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Herbarium",
@@ -811,9 +811,79 @@
                 "image": "@PROJECT_PATH@/assets/images/7-herbarium-finish-104-2000x1309.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Hiroshi Yoskimura",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/klaar-hiroshi-lp-hoesvoor-2000x2116-800x846.jpg",
+                "image": "@PROJECT_PATH@/assets/images/klaar-hiroshi-lp-hoesvoor-2000x2116.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Hiroshi Yoskimura",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/klaar-hiroshi-lp-hoesq-2000x2131-800x852.jpg",
+                "image": "@PROJECT_PATH@/assets/images/klaar-hiroshi-lp-hoesq-2000x2131.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Hiroshi Yoskimura",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/klaar-hiroshi-labeldzdas-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/klaar-hiroshi-labeldzdas-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Hiroshi Yoskimura",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/klaar-hiroshi-labelsd-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/klaar-hiroshi-labelsd-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Grap op formaat",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/grap-klaar-2000x2904-800x1161.jpg",
+                "image": "@PROJECT_PATH@/assets/images/grap-klaar-2000x2904.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "ABCDarium",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/abc21-2000x2799-800x1119.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abc21-2000x2799.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "ABCDarium",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/abcdarium-2000x2799-800x1119.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abcdarium-2000x2799.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
-            "spacing": 1,
+            "spacing": "3",
             "showText": false,
             "filter": true,
             "bgColor": "fff",

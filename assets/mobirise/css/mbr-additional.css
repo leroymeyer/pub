@@ -57,6 +57,12 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Noto Sans', sans-serif;
 }
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
+}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -89,7 +95,7 @@ h6,
   background-color: #7e9b9f !important;
 }
 .bg-warning {
-  background-color: #000000 !important;
+  background-color: #ffef00 !important;
 }
 .bg-danger {
   background-color: #f28281 !important;
@@ -175,8 +181,8 @@ h6,
   border-color: #6a8153 !important;
 }
 .btn-warning {
-  background-color: #000000;
-  border-color: #000000;
+  background-color: #ffef00;
+  border-color: #ffef00;
   color: #ffffff;
 }
 .btn-warning:hover,
@@ -185,14 +191,14 @@ h6,
 .btn-warning:active,
 .btn-warning.active {
   color: #ffffff;
-  background-color: #000000;
-  border-color: #000000;
+  background-color: #b3a700;
+  border-color: #b3a700;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #000000 !important;
-  border-color: #000000 !important;
+  background-color: #b3a700 !important;
+  border-color: #b3a700 !important;
 }
 .btn-danger {
   background-color: #f28281;
@@ -296,8 +302,8 @@ h6,
 }
 .btn-warning-outline {
   background: none;
-  border-color: #000000;
-  color: #000000;
+  border-color: #998f00;
+  color: #998f00;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
@@ -305,14 +311,14 @@ h6,
 .btn-warning-outline:active,
 .btn-warning-outline.active {
   color: #ffffff;
-  background-color: #000000;
-  border-color: #000000;
+  background-color: #ffef00;
+  border-color: #ffef00;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #000000 !important;
-  border-color: #000000 !important;
+  background-color: #ffef00 !important;
+  border-color: #ffef00 !important;
 }
 .btn-danger-outline {
   background: none;
@@ -344,7 +350,7 @@ h6,
   color: #7e9b9f !important;
 }
 .text-warning {
-  color: #000000 !important;
+  color: #ffef00 !important;
 }
 .text-danger {
   color: #f28281 !important;
@@ -356,7 +362,7 @@ h6,
   background-color: #7e9b9f;
 }
 .alert-warning {
-  background-color: #000000;
+  background-color: #ffef00;
 }
 .alert-danger {
   background-color: #f28281;
@@ -403,7 +409,7 @@ h6,
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
-  color: #b3b3b3;
+  color: #fffccc;
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
