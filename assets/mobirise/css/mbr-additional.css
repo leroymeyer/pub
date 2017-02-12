@@ -9,6 +9,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -431,19 +432,19 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-0 .navbar-toggler {
-  color: #2b0680;
+  color: #7775ff;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #2b0680;
+  color: #7775ff;
   font-family: 'Lora', serif;
 }
 #menu-0 .link {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 1.516rem;
+  font-size: 1.300rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -453,22 +454,22 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-menu {
-  background: #e6e6e6;
+  background: #0a00cc;
 }
 #menu-0 .nav-dropdown-sm .link:focus,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #0c00f0!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #0d00ff;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #2b0680;
+  color: #7775ff;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -490,7 +491,7 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #2b0680;
+  background-color: #7775ff;
 }
 #header2-3 H3 {
   text-align: center;
@@ -505,6 +506,15 @@ h6,
   font-size: 100px;
   color: #000000;
   text-align: right;
+}
+#header2-3 .mbr-section-text {
+  text-align: center;
+}
+#contacts1-14 STRONG {
+  color: #f2ff00;
+}
+#contacts1-14 P {
+  font-family: 'Lora', serif;
 }
 
 
