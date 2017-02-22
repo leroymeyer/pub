@@ -14,9 +14,9 @@
         "dangerColor": "#f28281",
         "titleFont": "Noto Sans",
         "subtitleFont": "Lora",
-        "textFont": "Raleway",
-        "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "textFont": "Lora",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       }
     },
@@ -38,108 +38,6 @@
         "order": 1
       },
       "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "8px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#fff900"
-            },
-            ".link, .dropdown-item": {
-              "color": "#fff900",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
-            },
-            ".link": {
-              "font-size": "1.35rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.462rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0a00cc"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#0c00f0!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#0d00ff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#fff900",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ff0400!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#fff900"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-0",
-          "_params": {
-            "bgColor": "#0d00ff",
-            "fontSize": "1.35",
-            "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
-            },
-            "fontColor": "#fff900",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": false,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "sad",
-              "family": "et-line",
-              "link": "",
-              "size": "1",
-              "newWindow": false,
-              "color": "#ffea00",
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
         {
           "_tags": [
             "Theme"
@@ -166,7 +64,9 @@
               "text-align": "center"
             },
             ".mbr-section-title SPAN": {
-              "text-align": "left"
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_anchor": "header2-3",
@@ -269,8 +169,113 @@
             }
           },
           "text1": "<strong>Address</strong><br>BELGIUM<br>Kievitstraat 15<br>8400, Ostend<br><br>",
-          "text2": "<strong>Contacts</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
+          "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
           "text3": "<strong>Links</strong><br>Instagram<br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "8px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-family": "'Lora', serif"
+            },
+            ".link": {
+              "font-size": "1.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "2.004rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a00cc"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#0c00f0!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#0d00ff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "@primaryColor!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#0d00ff",
+            "fontSize": "1.85",
+            "fontName": {
+              "name": "Lora",
+              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "css": "'Lora', serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "30",
+              "newWindow": false,
+              "color": "#ffea00",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -349,13 +354,13 @@
           "_anchor": "menu-k",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1.35",
+            "fontSize": "1.85",
             "fontName": {
               "name": "Lora",
               "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "css": "'Lora', serif"
             },
-            "fontColor": "#fff900",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -384,7 +389,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -586,7 +591,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>BELGIUM<br>Kievitstraat 15<br>8400, Ostend<br><br>",
-          "text2": "<strong>Contacts</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
+          "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
           "text3": "<strong>Links</strong><br>Instagram<br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
         }
       ]
@@ -610,18 +615,18 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#fff900"
+              "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#fff900",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-family": "'Lora', serif"
             },
             ".link": {
-              "font-size": "1.35rem"
+              "font-size": "1.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.462rem"
+              "font-size": "2.004rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -636,7 +641,7 @@
               "background": "#0d00ff"
             },
             ".bg-color.transparent .link": {
-              "color": "#fff900",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -646,7 +651,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ff0400!important"
+              "color": "@primaryColor!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -656,7 +661,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#fff900"
+              "background-color": "#ffffff"
             }
           },
           "_tags": [
@@ -666,13 +671,13 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#0d00ff",
-            "fontSize": "1.35",
+            "fontSize": "1.85",
             "fontName": {
               "name": "Lora",
               "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "css": "'Lora', serif"
             },
-            "fontColor": "#fff900",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -701,7 +706,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -944,7 +949,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>BELGIUM<br>Kievitstraat 15<br>8400, Ostend<br><br>",
-          "text2": "<strong>Contacts</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
+          "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
           "text3": "<strong>Links</strong><br>Instagram<br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
         }
       ]
