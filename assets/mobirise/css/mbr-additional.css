@@ -510,6 +510,9 @@ h6,
 #header2-3 .mbr-section-text {
   text-align: center;
 }
+#header2-3 .mbr-section-title SPAN {
+  text-align: left;
+}
 #contacts1-14 STRONG {
   color: #f2ff00;
 }
