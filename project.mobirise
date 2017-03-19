@@ -43,6 +43,18 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title SPAN": {
+              "text-align": "left",
+              "color": "#000000",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "100px"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header2-1a",
           "_params": {
             "imageSize": 50,
@@ -88,19 +100,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Meyer <br>Leroy</span>",
           "text": "🇧🇪 Luca School of Arts, Ghent <br>                                    <a href=\"grafisch\">♧ Grafisch Ontwerp    </a><br>                                    <a href=\"Foto\">♤Fotografie &nbsp;</a><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title SPAN": {
-              "text-align": "left",
-              "color": "#000000",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "100px"
-            },
-            ".mbr-section-text": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -191,10 +191,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#f1eb00"
+              "color": "#ffe500"
             },
             ".link, .dropdown-item": {
-              "color": "#f1eb00",
+              "color": "#ffe500",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-family": "'Lora', serif"
             },
@@ -217,7 +217,7 @@
               "background": "#0010fc"
             },
             ".bg-color.transparent .link": {
-              "color": "#f1eb00",
+              "color": "#ffe500",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -237,7 +237,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#f1eb00"
+              "background-color": "#ffe500"
             }
           },
           "_tags": [
@@ -253,7 +253,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "css": "'Lora', serif"
             },
-            "fontColor": "#f1eb00",
+            "fontColor": "#ffe500",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -305,10 +305,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#fffdae"
+              "color": "#ffe500"
             },
             ".link, .dropdown-item": {
-              "color": "#fffdae",
+              "color": "#ffe500",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-family": "'Lora', serif"
             },
@@ -331,7 +331,7 @@
               "background": "#fafae4"
             },
             ".bg-color.transparent .link": {
-              "color": "#fffdae",
+              "color": "#ffe500",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -351,7 +351,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#fffdae"
+              "background-color": "#ffe500"
             }
           },
           "_tags": [
@@ -367,7 +367,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "css": "'Lora', serif"
             },
-            "fontColor": "#fffdae",
+            "fontColor": "#ffe500",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,

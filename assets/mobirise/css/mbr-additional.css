@@ -443,11 +443,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-k .navbar-toggler {
-  color: #f1eb00;
+  color: #ffe500;
 }
 #menu-k .link,
 #menu-k .dropdown-item {
-  color: #f1eb00;
+  color: #ffe500;
   font-family: 'Lora', serif;
 }
 #menu-k .link {
@@ -480,7 +480,7 @@ h6,
   background: #0010fc;
 }
 #menu-k .bg-color.transparent .link {
-  color: #f1eb00;
+  color: #ffe500;
   transition: none;
 }
 #menu-k .bg-color.transparent.opened .link {
@@ -502,7 +502,7 @@ h6,
 }
 #menu-k .close-icon::before,
 #menu-k .close-icon::after {
-  background-color: #f1eb00;
+  background-color: #ffe500;
 }
 
 
@@ -516,11 +516,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-k .navbar-toggler {
-  color: #fffdae;
+  color: #ffe500;
 }
 #menu-k .link,
 #menu-k .dropdown-item {
-  color: #fffdae;
+  color: #ffe500;
   font-family: 'Lora', serif;
 }
 #menu-k .link {
@@ -553,7 +553,7 @@ h6,
   background: #fafae4;
 }
 #menu-k .bg-color.transparent .link {
-  color: #fffdae;
+  color: #ffe500;
   transition: none;
 }
 #menu-k .bg-color.transparent.opened .link {
@@ -575,7 +575,7 @@ h6,
 }
 #menu-k .close-icon::before,
 #menu-k .close-icon::after {
-  background-color: #fffdae;
+  background-color: #ffe500;
 }
 #contacts1-14 STRONG {
   color: #f2ff00;
