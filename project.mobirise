@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "tekeningen ",
+    "currentPage": "index.html",
     "name": "Leroy Meyer",
     "theme": {
       "name": "mobirise3",
@@ -102,7 +102,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Meyer</span><br><span style=\"font-weight: normal;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Leroy</span>",
-          "text": "<p>🇧🇪 Luca School of Arts, Ghent <br>                                    <a href=\"grafisch\">♧ Grafisch Ontwerp    </a><br>                                    <a href=\"Foto\">♤ Fotografie &nbsp;</a><a href=\"Foto\"></a><br><a href=\"tekeningen \">♢ Tekeningen<br></a><br></p>",
+          "text": "<p>🇧🇪 Luca School of Arts, Ghent <br>                                    <a href=\"grafisch\">♧ Grafisch Ontwerp    </a><br>                                    <a href=\"Foto\">♤ Fotografie &nbsp;</a><a href=\"Foto\"></a><br>♢ Tekeningen<br><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
