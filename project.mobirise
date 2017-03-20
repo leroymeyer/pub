@@ -31,7 +31,7 @@
       "settings": {
         "main": true,
         "title": "Meyer Leroy",
-        "meta_descr": "Meyer Leroy, ",
+        "meta_descr": "© Meyer Leroy, Home",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -292,7 +292,7 @@
     "Foto": {
       "settings": {
         "order": 3,
-        "meta_descr": "Meyer Leroy, Foto, 2015-1016, Bonaire, IJsland, Lifou.",
+        "meta_descr": "© Meyer Leroy, Foto, 2015-1016, Bonaire, IJsland, Lifou.",
         "title": "Meyer Leroy"
       },
       "components": [
@@ -609,7 +609,7 @@
     "grafisch": {
       "settings": {
         "order": 2,
-        "meta_descr": "Meyer Leroy, Grafisch werk, 2016.",
+        "meta_descr": "© Meyer Leroy, Grafisch werk, 2016.",
         "title": "Meyer Leroy"
       },
       "components": [
@@ -972,8 +972,8 @@
     },
     "tekeningen ": {
       "settings": {
-        "title": "tekeningen ",
-        "meta_descr": "Web Builder Description"
+        "title": "Meyer Leroy ",
+        "meta_descr": "Drawings, 2016-2017, © Meyer Leroy "
       },
       "components": [
         {
