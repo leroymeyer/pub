@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "tekeningen ",
     "name": "Leroy Meyer",
     "theme": {
       "name": "mobirise3",
@@ -16,7 +16,7 @@
         "subtitleFont": "Lora",
         "textFont": "Lora",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       }
     },
@@ -102,7 +102,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Meyer</span><br><span style=\"font-weight: normal;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Leroy</span>",
-          "text": "<p>🇧🇪 Luca School of Arts, Ghent <br>                                    <a href=\"grafisch\">♧ Grafisch Ontwerp    </a><br>                                    <a href=\"Foto\">♤ Fotografie &nbsp;</a><a href=\"Foto\"></a><br>♢ Tekeningen<br><br></p>",
+          "text": "<p>🇧🇪 Luca School of Arts, Ghent</p><p><a href=\"grafisch\" style=\"font-size: 1.07rem; line-height: 1.5; background-color: rgb(255, 255, 255);\">♧ Graphic Design</a></p><br><p><a href=\"grafisch\" style=\"font-size: 1.07rem; line-height: 1.5; background-color: rgb(255, 255, 255);\"><br></a><a href=\"Foto\" style=\"font-size: 1.07rem; line-height: 1.5; background-color: rgb(255, 255, 255);\">♤ Photography&nbsp;</a></p><br><p><a href=\"Foto\" style=\"font-size: 1.07rem; line-height: 1.5; background-color: rgb(255, 255, 255);\"><br></a><a href=\"tekeningen \" style=\"font-size: 1.07rem; line-height: 1.5; background-color: rgb(255, 255, 255);\">♢ Drawings</a></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -154,7 +154,7 @@
           },
           "text1": "<strong>Address</strong><br>BELGIUM<br>Kievitstraat 15<br>8400, Ostend<br><br>",
           "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
-          "text3": "<strong>Links</strong><br>Soundcloud<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Instagram</span><br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
+          "text3": "<strong>Links</strong><br><a href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\" class=\"text-white\">Soundcloud</a><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.instagram.com/lrymyr/\" class=\"text-white\">Instagram</a></span><br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
         },
         {
           "_tags": [
@@ -285,7 +285,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tekeningen \">Tekeningen</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Graphic Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tekeningen \">Drawings</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -399,7 +399,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tekeningen \">Tekeningen</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Graphic Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tekeningen \">Drawings</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -602,7 +602,7 @@
           },
           "text1": "<strong>Address</strong><br>BELGIUM<br>Kievitstraat 15<br>8400, Ostend<br><br>",
           "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
-          "text3": "<strong>Links</strong><br>Soundcloud<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Instagram</span><br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
+          "text3": "<strong>Links</strong><br><a href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\" class=\"text-white\">Soundcloud</a><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.instagram.com/lrymyr/\" class=\"text-white\">Instagram</a></span><br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
         }
       ]
     },
@@ -835,7 +835,7 @@
           },
           "text1": "<strong>Address</strong><br>BELGIUM<br>Kievitstraat 15<br>8400, Ostend<br><br>",
           "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
-          "text3": "<strong>Links</strong><br>Soundcloud<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Instagram</span><br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
+          "text3": "<strong>Links</strong><br><a href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\" class=\"text-white\">Soundcloud</a><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.instagram.com/lrymyr/\" class=\"text-white\">Instagram</a></span><br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
         },
         {
           "_tags": [
@@ -966,7 +966,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tekeningen \">Tekeningen</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Graphic Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tekeningen \">Drawings</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -1158,7 +1158,7 @@
           },
           "text1": "<strong>Address</strong><br>BELGIUM<br>Kievitstraat 15<br>8400, Ostend<br><br>",
           "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
-          "text3": "<strong>Links</strong><br>Soundcloud<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Instagram</span><br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
+          "text3": "<strong>Links</strong><br><a href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\" class=\"text-white\">Soundcloud</a><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.instagram.com/lrymyr/\" class=\"text-white\">Instagram</a></span><br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
         },
         {
           "_styles": {
@@ -1263,7 +1263,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Fotografie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tekeningen \">Tekeningen</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Graphic Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tekeningen \">Drawings</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     }
