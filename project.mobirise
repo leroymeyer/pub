@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "tekeningen ",
+    "currentPage": "index.html",
     "name": "Leroy Meyer",
     "theme": {
       "name": "mobirise3",
@@ -23,8 +23,9 @@
     "versionFirst": "3.9.2",
     "uniqCompNum": 51,
     "versionPublish": "3.11.1",
-    "favicon": "",
-    "noImageResize": ""
+    "favicon": "@PROJECT_PATH@/assets/images/ik-hsl-128x183-1.png",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -973,7 +974,7 @@
     "tekeningen ": {
       "settings": {
         "title": "Meyer Leroy ",
-        "meta_descr": "Drawings, 2016-2017, © Meyer Leroy "
+        "meta_descr": "© Drawings, 2016-2017, © Meyer Leroy "
       },
       "components": [
         {
