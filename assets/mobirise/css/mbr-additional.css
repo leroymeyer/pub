@@ -586,6 +586,10 @@ h6,
 #contacts1-14 P {
   font-family: 'Lora', serif;
 }
+#footer1-17 P {
+  color: #ffffff;
+  font-size: 10px;
+}
 
 
 
@@ -747,4 +751,8 @@ h6,
 #menu-k .close-icon::before,
 #menu-k .close-icon::after {
   background-color: #ffe500;
+}
+#footer1-17 P {
+  color: #ffffff;
+  font-size: 10px;
 }
