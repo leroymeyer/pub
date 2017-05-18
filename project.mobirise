@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "tekeningen ",
+    "currentPage": "Drawings",
     "name": "Leroy Meyer",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 51,
+    "uniqCompNum": 55,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/ik-hsl-128x183-1.png",
     "noImageResize": "",
@@ -33,7 +33,7 @@
       "settings": {
         "main": true,
         "title": "Meyer Leroy",
-        "meta_descr": "© Meyer Leroy, Home",
+        "meta_descr": "© Meyer Leroy, Home.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -104,7 +104,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Meyer</span><br><span style=\"font-weight: normal;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Leroy</span>",
-          "text": "<p>🇧🇪 Luca School of Arts, Ghent</p><p><a href=\"grafisch\">♧ Graphic Design</a></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"Foto\">♤ Photography</a></span></p><a href=\"tekeningen \">♢ Drawings</a><br><p><a href=\"Foto\" style=\"font-size: 1.07rem; line-height: 1.5; background-color: rgb(255, 255, 255);\"><br></a><br></p>",
+          "text": "<p>🇧🇪 Luca School of Arts, Ghent</p><p><a href=\"grafisch\">♧ Graphic Design</a></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"Foto\">♤ Photography</a></span></p><a href=\"Drawings\">♢ Drawings</a><br><p><a href=\"Foto\" style=\"font-size: 1.07rem; line-height: 1.5; background-color: rgb(255, 255, 255);\"><br></a><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -125,11 +125,11 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": false,
+            "bgImageRadio": false,
+            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgColor": "#ff0000",
+            "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "1",
             "overlayColor": "#ff0000"
@@ -149,12 +149,13 @@
               "name": "protect",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
+              "size": "1",
               "active": true,
-              "color": "#ff0000"
+              "color": "#ff0000",
+              "newWindow": false
             }
           },
-          "text1": "<strong>Address</strong><br>BELGIUM<br>Kievitstraat 15<br>8400, Ostend<br><br>",
+          "text1": "<strong>Address</strong><br>Belgium<br>Kievitstraat 15<br>8400, Ostend<br><br>",
           "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
           "text3": "<strong>Links</strong><br><a href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\" class=\"text-white\">Soundcloud</a><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.instagram.com/lrymyr/\" class=\"text-white\">Instagram</a></span><br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
         },
@@ -280,21 +281,21 @@
               "name": "home",
               "family": "MobiriseIcons",
               "link": "index.html",
-              "size": "30",
+              "size": "1",
               "newWindow": false,
               "color": "#ffea00",
               "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Graphic Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tekeningen \">Drawings</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Graphic Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings\">Drawings</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
     "Foto": {
       "settings": {
         "order": 3,
-        "meta_descr": "© Meyer Leroy, Photos, 2015-1016, ",
+        "meta_descr": "© Meyer Leroy, Photos, 2015-1016-2017, ",
         "title": "Meyer Leroy"
       },
       "components": [
@@ -394,14 +395,14 @@
               "name": "home",
               "family": "MobiriseIcons",
               "link": "index.html",
-              "size": "30",
+              "size": "25",
               "newWindow": false,
               "color": "#ffea00",
               "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Graphic Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tekeningen \">Drawings</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Graphic Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings\">Drawings</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -573,11 +574,11 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": false,
+            "bgImageRadio": false,
+            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgColor": "#ff0000",
+            "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "1",
             "overlayColor": "#ff0000"
@@ -602,7 +603,7 @@
               "color": "#ff0000"
             }
           },
-          "text1": "<strong>Address</strong><br>BELGIUM<br>Kievitstraat 15<br>8400, Ostend<br><br>",
+          "text1": "<strong>Address</strong><br>Belgium<br>Kievitstraat 15<br>8400, Ostend<br><br>",
           "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
           "text3": "<strong>Links</strong><br><a href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\" class=\"text-white\">Soundcloud</a><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.instagram.com/lrymyr/\" class=\"text-white\">Instagram</a></span><br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
         },
@@ -637,7 +638,7 @@
     "grafisch": {
       "settings": {
         "order": 2,
-        "meta_descr": "© Meyer Leroy, Grafisch werk, 2016.",
+        "meta_descr": "© Meyer Leroy, Grafisch werk, 2016-2017.",
         "title": "Meyer Leroy"
       },
       "components": [
@@ -649,7 +650,7 @@
           "_name": "gallery4",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Istanbul Ekspres",
@@ -769,7 +770,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/klaar-hiroshi-lp-hoesq-2000x2131-800x852.jpg",
                 "image": "@PROJECT_PATH@/assets/images/klaar-hiroshi-lp-hoesq-2000x2131.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Grap op formaat",
@@ -800,6 +801,56 @@
                 "image": "@PROJECT_PATH@/assets/images/abcdarium-2000x2799.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Trump vs. Clinton ",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boxing-newspapaer-portfolio-2000x2629-800x1051.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boxing-newspapaer-portfolio-2000x2629.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Trump vs. Clinton ",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boxing-newspapaer-portfolio1-2000x1314-800x525.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boxing-newspapaer-portfolio1-2000x1314.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Trump vs. Clinton ",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boxing-newspapaer-print-portfolio3-2000x1314-800x525.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boxing-newspapaer-print-portfolio3-2000x1314.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Trump vs. Clinton ",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boxing-newspapaer-print-portfolio4-2000x1314-800x525.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boxing-newspapaer-print-portfolio4-2000x1314.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Trump vs. Clinton ",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boxing-newspapaer-print-portfolio5-2000x1314-800x525.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boxing-newspapaer-print-portfolio5-2000x1314.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": "3",
@@ -808,7 +859,7 @@
             "bgColor": "#cccccc",
             "filterBgColor": false,
             "fullWidth": false,
-            "showBullets": true
+            "showBullets": false
           },
           "_anchor": "gallery4-11",
           "articleLayout": false,
@@ -832,11 +883,11 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": false,
+            "bgImageRadio": false,
+            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgColor": "#ff0000",
+            "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "1",
             "overlayColor": "#ff0000"
@@ -861,7 +912,7 @@
               "color": "#ff0000"
             }
           },
-          "text1": "<strong>Address</strong><br>BELGIUM<br>Kievitstraat 15<br>8400, Ostend<br><br>",
+          "text1": "<strong>Address</strong><br>Belgium<br>Kievitstraat 15<br>8400, Ostend<br><br>",
           "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
           "text3": "<strong>Links</strong><br><a href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\" class=\"text-white\">Soundcloud</a><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.instagram.com/lrymyr/\" class=\"text-white\">Instagram</a></span><br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
         },
@@ -987,23 +1038,128 @@
               "name": "home",
               "family": "MobiriseIcons",
               "link": "index.html",
-              "size": "30",
+              "size": "25",
               "newWindow": false,
               "color": "#ffea00",
               "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Graphic Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tekeningen \">Drawings</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Graphic Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings\">Drawings</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
-    "tekeningen ": {
+    "Drawings": {
       "settings": {
-        "title": "Meyer Leroy ",
-        "meta_descr": "© Meyer Leroy,  Drawings, 2016-2017"
+        "title": "Meyer Leroy",
+        "meta_descr": "© Meyer Leroy, Drawings, 2015-1016-2017, "
       },
       "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "8px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffe500"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffe500",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-family": "'Lora', serif"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0005cc"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#0006f0!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#0006ff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffe500",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ff0400!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffe500"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1f",
+          "_params": {
+            "bgColor": "#0006ff",
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Lora",
+              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "css": "'Lora', serif"
+            },
+            "fontColor": "#ffe500",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "25",
+              "newWindow": false,
+              "color": "#ffea00",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Graphic Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings\">Drawings</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
         {
           "_inherit": "gallery1",
           "_tags": [
@@ -1133,7 +1289,7 @@
             "fullWidth": true,
             "showBullets": false
           },
-          "_anchor": "gallery2-1d",
+          "_anchor": "gallery2-1i",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -1151,15 +1307,15 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
-          "_anchor": "contacts1-1c",
+          "_anchor": "contacts1-1g",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": false,
+            "bgImageRadio": false,
+            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgColor": "#ff0000",
+            "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "1",
             "overlayColor": "#ff0000"
@@ -1184,114 +1340,9 @@
               "color": "#ff0000"
             }
           },
-          "text1": "<strong>Address</strong><br>BELGIUM<br>Kievitstraat 15<br>8400, Ostend<br><br>",
+          "text1": "<strong>Address</strong><br>Belgium<br>Kievitstraat 15<br>8400, Ostend<br><br>",
           "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
           "text3": "<strong>Links</strong><br><a href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\" class=\"text-white\">Soundcloud</a><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.instagram.com/lrymyr/\" class=\"text-white\">Instagram</a></span><br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "8px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffe500"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffe500",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
-            },
-            ".link": {
-              "font-size": "1.1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0005cc"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#0006f0!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#0006ff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffe500",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ff0400!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffe500"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-k",
-          "_params": {
-            "bgColor": "#0006ff",
-            "fontSize": "1.1",
-            "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
-            },
-            "fontColor": "#ffe500",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "home",
-              "family": "MobiriseIcons",
-              "link": "index.html",
-              "size": "22",
-              "newWindow": false,
-              "color": "#ffea00",
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafisch\" aria-expanded=\"false\">Graphic Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Foto\">Photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tekeningen \">Drawings</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1304,7 +1355,7 @@
               "font-size": "10px"
             }
           },
-          "_anchor": "footer1-17",
+          "_anchor": "footer1-1h",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
