@@ -52,7 +52,7 @@
               "color": "#ffffff"
             },
             "P": {
-              "font-size": "30px",
+              "font-size": "25px",
               "font-family": "'Noto Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
             }
@@ -64,7 +64,7 @@
           "_anchor": "header3-28",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "1",
             "bgColor": "#2000ff",
             "showMeta": true
           },
@@ -83,7 +83,7 @@
               "color": "#ffffff"
             },
             "P": {
-              "font-size": "30px",
+              "font-size": "25px",
               "font-family": "'Noto Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
             }
@@ -180,7 +180,7 @@
             "H3": {
               "font-family": "'Noto Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "font-size": "30px",
+              "font-size": "25px",
               "color": "#ffffff",
               "text-align": "right"
             }
@@ -420,13 +420,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0005cc"
+              "background": "#0000cc"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#0006f0!important"
+              "background": "#0000f0!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#0006ff"
+              "background": "#0000ff"
             },
             ".bg-color.transparent .link": {
               "color": "#ffe500",
@@ -1093,13 +1093,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0005cc"
+              "background": "#0000cc"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#0006f0!important"
+              "background": "#0000f0!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#0006ff"
+              "background": "#0000ff"
             },
             ".bg-color.transparent .link": {
               "color": "#ffe500",
@@ -1206,13 +1206,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0005cc"
+              "background": "#0000cc"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#0006f0!important"
+              "background": "#0000f0!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#0006ff"
+              "background": "#0000ff"
             },
             ".bg-color.transparent .link": {
               "color": "#ffe500",
@@ -1778,7 +1778,7 @@
             "showButtons": false
           },
           "title": "Exhibitions",
-          "text": "<br>2017 - Group Exhibition, De Arenberg, Antwerp, BE<br>2017 - Solo Exhibition, De Vitrine + KAZ, Ostend, BE<br>2016 - Group Exhibition (Luca School of Arts), De Ruimte, Ghent, BE<br>2016 - Solo Exhibition, Galerij Tussenin, Ostend, BE<br>2016 - Group Exhibition (by Alex Vanhee), FOMU, Antwerp, BE<br>2016 - Studio List, Duo Exhibition, Ostend, BE<br>2016 - Solo Exhibition (Kunstgras), Mu-Zee-Um, Ostend, BE<br>2014 - Group Exhibition (Graduation show), De Grote Post, Ostend, BE<br>",
+          "text": "<br>2017 - Group Exhibition, De Arenberg, Antwerp, BE<br>2017 - Solo Exhibition, De Vitrine + KAZ, Ostend, BE<br>2016 - Group Exhibition (Luca School of Arts), De Ruimte, Ghent, BE<br>2016 - Duo Exhibition, Galerij Tussenin, Ostend, BE<br>2016 - Group Exhibition (by Alex Vanhee), FOMU, Antwerp, BE<br>2016 - Studio List, Duo Exhibition, Ostend, BE<br>2016 - Solo Exhibition (Kunstgras), Mu-Zee-Um, Ostend, BE<br>2014 - Group Exhibition (Graduation show), De Grote Post, Ostend, BE<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         },
         {
