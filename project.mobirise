@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "grafisch",
     "name": "Leroy Meyer",
     "theme": {
       "name": "mobirise3",
@@ -14,19 +14,19 @@
         "dangerColor": "#f28281",
         "titleFont": "Noto Sans",
         "subtitleFont": "Lora",
-        "textFont": "Lora",
+        "textFont": "Montserrat",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 59,
+    "uniqCompNum": 62,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/ik-hsl-128x183-1.png",
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-99065182-2', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
-    "cookiesAlert": "Cookies, be aware. <a href='privacy.html'>cookie policy</a>."
+    "cookiesAlert": "Cookies, just be aware. <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
@@ -156,7 +156,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Belgium<br>Kievitstraat 15<br>8400, Ostend<br><br>",
-          "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
+          "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 3247 205 2451",
           "text3": "<strong>Links</strong><br><a href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\" class=\"text-white\">Soundcloud</a><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.instagram.com/lrymyr/\" class=\"text-white\">Instagram</a></span><br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
         },
         {
@@ -604,7 +604,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Belgium<br>Kievitstraat 15<br>8400, Ostend<br><br>",
-          "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
+          "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 3247 205 2451",
           "text3": "<strong>Links</strong><br><a href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\" class=\"text-white\">Soundcloud</a><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.instagram.com/lrymyr/\" class=\"text-white\">Instagram</a></span><br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
         },
         {
@@ -913,7 +913,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Belgium<br>Kievitstraat 15<br>8400, Ostend<br><br>",
-          "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
+          "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 3247 205 2451",
           "text3": "<strong>Links</strong><br><a href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\" class=\"text-white\">Soundcloud</a><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.instagram.com/lrymyr/\" class=\"text-white\">Instagram</a></span><br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
         },
         {
@@ -1341,7 +1341,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Belgium<br>Kievitstraat 15<br>8400, Ostend<br><br>",
-          "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
+          "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 3247 205 2451",
           "text3": "<strong>Links</strong><br><a href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\" class=\"text-white\">Soundcloud</a><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.instagram.com/lrymyr/\" class=\"text-white\">Instagram</a></span><br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
         },
         {
@@ -1379,42 +1379,53 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "60px"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-1m",
+          "_name": "header3",
+          "_anchor": "header3-1o",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/flag_yellow_high-2000x1333.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "paddingTop": "7",
+            "paddingBottom": "5",
+            "bgColor": "#0006ff",
+            "showMeta": true
           },
-          "title": "About privacy and cookies (<span style=\"font-weight: normal;\">on this site)</span>",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> ",
+          "title": "About privacy and cookies<div><br></div>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-1n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<h1>Cookies</h1><div>To make this site work properly, we sometimes place small data files called cookies on your device. Most big websites do this too.</div><div><br></div>",
+          "text2": "<h1>What are cookies?</h1><div>A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another.&nbsp;</div>",
+          "text3": "<h1>How do we use cookies?</h1><div>Cookies their purpose and the reason on this site.</div><div><span style=\"line-height: 1.5;\">They aim to enhance the performance of the website</span></div><div>the types of cookies used we just use Google Analytics to see the population on this site and where.</div><div>The cookie will not be used for any purpose other than the one stated</div><div>how consent can be withdrawn.</div><div><br></div><div>You can control and/or delete cookies as you wish – for details, see.</div><div><br></div>",
           "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            "H1": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#0006ff"
             },
-            ".mbr-section-title SPAN": {
-              "font-size": "72px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            "DIV": {
+              "font-size": "15px"
             }
           }
         },
@@ -1466,7 +1477,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Belgium<br>Kievitstraat 15<br>8400, Ostend<br><br>",
-          "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 327 205 2451",
+          "text2": "<strong>Contact</strong><br>leroymeyer@hotmail.com<br>+ 3247 205 2451",
           "text3": "<strong>Links</strong><br><a href=\"https://soundcloud.com/lil-leroy\" target=\"_blank\" class=\"text-white\">Soundcloud</a><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><a href=\"https://www.instagram.com/lrymyr/\" class=\"text-white\">Instagram</a></span><br><a href=\"http://meyerleroy.tumblr.com\" target=\"_blank\" class=\"text-white\">Tumblr</a><br><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\">Flickr</a><a href=\"https://www.flickr.com/photos/136624758@N06/\" target=\"_blank\" class=\"text-white\"><br></a><br>"
         },
         {

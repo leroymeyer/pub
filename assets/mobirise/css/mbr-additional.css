@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 
 
@@ -12,11 +13,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Lora', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Lora', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .btn,
 .alert,
@@ -761,12 +762,21 @@ h6,
 
 
 
-#header1-1m .mbr-section-title {
-  font-family: 'Lora', serif;
+#header3-1o .mbr-section-title,
+#header3-1o .mbr-section-subtitle {
+  text-align: center;
 }
-#header1-1m .mbr-section-title SPAN {
-  font-size: 72px;
+#header3-1o H3 {
+  color: #ffffff;
   font-family: 'Lora', serif;
+  font-size: 60px;
+}
+#content7-1n H1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #0006ff;
+}
+#content7-1n DIV {
+  font-size: 15px;
 }
 #contacts1-1j STRONG {
   color: #f2ff00;
