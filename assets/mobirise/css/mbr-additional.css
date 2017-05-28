@@ -1,7 +1,11 @@
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+
+
 
 
 
@@ -417,6 +421,32 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header3-28 .mbr-section-title,
+#header3-28 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-28 H3 {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 30px;
+  color: #ffffff;
+}
+#header3-28 P {
+  font-size: 30px;
+  font-family: 'Noto Sans', sans-serif;
+}
+#header3-29 .mbr-section-title,
+#header3-29 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-29 H3 {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 30px;
+  color: #ffffff;
+}
+#header3-29 P {
+  font-size: 30px;
+  font-family: 'Noto Sans', sans-serif;
+}
 #header2-1a .mbr-section-title SPAN {
   text-align: right;
   color: #000000;
@@ -429,6 +459,9 @@ h6,
 #header2-1a .mbr-section-title {
   text-align: center;
 }
+#header2-1a .mbr-section-text P {
+  font-size: 20px;
+}
 #header3-1v .mbr-section-title,
 #header3-1v .mbr-section-subtitle {
   text-align: center;
@@ -437,6 +470,7 @@ h6,
   font-family: 'Noto Sans', sans-serif;
   font-size: 30px;
   color: #ffffff;
+  text-align: right;
 }
 #contacts1-14 STRONG {
   color: #f2ff00;
@@ -866,5 +900,96 @@ h6,
 }
 #menu-1u .close-icon::before,
 #menu-1u .close-icon::after {
+  background-color: #ffe500;
+}
+
+
+
+#header5-25 .mbr-section-title {
+  color: #0800ff;
+  text-align: center;
+}
+#header5-25 .mbr-section-lead {
+  color: #0800ff;
+  text-align: left;
+}
+#contacts1-1z STRONG {
+  color: #f2ff00;
+}
+#contacts1-1z P {
+  font-family: 'Lora', serif;
+}
+#footer1-20 P {
+  color: #ffffff;
+  font-size: 10px;
+}
+#menu-21 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-21 .navbar-caption {
+  color: #ffffff;
+  font-size: 8px;
+  font-family: 'Roboto', sans-serif;
+}
+#menu-21 .navbar-toggler {
+  color: #ffe500;
+}
+#menu-21 .link,
+#menu-21 .dropdown-item {
+  color: #ffe500;
+  font-family: 'Lora', serif;
+}
+#menu-21 .link {
+  font-size: 1.1rem;
+}
+#menu-21 .dropdown-item,
+#menu-21 .nav-dropdown-sm .link {
+  font-size: 1.191rem;
+}
+#menu-21 .link:hover,
+#menu-21 .dropdown-item:hover,
+#menu-21 .link:focus,
+#menu-21 .dropdown-item:focus {
+  color: #ff0400;
+}
+#menu-21 .link[aria-expanded="true"],
+#menu-21 .dropdown-menu {
+  background: #0005cc;
+}
+#menu-21 .nav-dropdown-sm .link:focus,
+#menu-21 .nav-dropdown-sm .link:hover,
+#menu-21 .nav-dropdown-sm .dropdown-item:focus,
+#menu-21 .nav-dropdown-sm .dropdown-item:hover {
+  background: #0006f0!important;
+}
+#menu-21 .navbar,
+#menu-21 .nav-dropdown-sm,
+#menu-21 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-21 .nav-dropdown-sm .dropdown-menu {
+  background: #0006ff;
+}
+#menu-21 .bg-color.transparent .link {
+  color: #ffe500;
+  transition: none;
+}
+#menu-21 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-21 .bg-color.transparent.opened .link:hover,
+#menu-21 .bg-color.transparent.opened .link:focus {
+  color: #ff0400;
+}
+#menu-21 .link[aria-expanded="true"],
+#menu-21 .dropdown-item[aria-expanded="true"] {
+  color: #ff0400!important;
+}
+#menu-21.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-21 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-21 .close-icon::before,
+#menu-21 .close-icon::after {
   background-color: #ffe500;
 }
