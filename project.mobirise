@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Foto",
+    "currentPage": "index.html",
     "name": "Leroy Meyer",
     "theme": {
       "name": "mobirise3",
@@ -193,7 +193,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2000ff",
+            "bgColor": "#0000ff",
             "showMeta": true
           },
           "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;My <a href=\"downloads/Portfolio_MeyerLeroy_Valence_2017.pdf\" target=\"_blank\">portfolio</a> &amp; <a href=\"downloads/CV_Leroy Meyer.pdf\" target=\"_blank\">CV</a>&nbsp;",
@@ -306,13 +306,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0005cc"
+              "background": "#0000cc"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#0006f0!important"
+              "background": "#0000f0!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#0006ff"
+              "background": "#0000ff"
             },
             ".bg-color.transparent .link": {
               "color": "#ffe500",
@@ -344,7 +344,7 @@
           "_name": "menu",
           "_anchor": "menu-k",
           "_params": {
-            "bgColor": "#0006ff",
+            "bgColor": "#0000ff",
             "fontSize": "1.1",
             "fontName": {
               "name": "Lora",
@@ -458,7 +458,7 @@
           "_name": "menu",
           "_anchor": "menu-k",
           "_params": {
-            "bgColor": "#0006ff",
+            "bgColor": "#0000ff",
             "fontSize": "1.1",
             "fontName": {
               "name": "Lora",
@@ -1131,7 +1131,7 @@
           "_name": "menu",
           "_anchor": "menu-k",
           "_params": {
-            "bgColor": "#0006ff",
+            "bgColor": "#0000ff",
             "fontSize": "1.1",
             "fontName": {
               "name": "Lora",
@@ -1244,7 +1244,7 @@
           "_name": "menu",
           "_anchor": "menu-1f",
           "_params": {
-            "bgColor": "#0006ff",
+            "bgColor": "#0000ff",
             "fontSize": "1.1",
             "fontName": {
               "name": "Lora",
@@ -1695,7 +1695,7 @@
           "_name": "menu",
           "_anchor": "menu-1u",
           "_params": {
-            "bgColor": "#0006ff",
+            "bgColor": "#0000ff",
             "fontSize": "1.1",
             "fontName": {
               "name": "Lora",
@@ -1888,13 +1888,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0005cc"
+              "background": "#0000cc"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#0006f0!important"
+              "background": "#0000f0!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#0006ff"
+              "background": "#0000ff"
             },
             ".bg-color.transparent .link": {
               "color": "#ffe500",
@@ -1926,7 +1926,7 @@
           "_name": "menu",
           "_anchor": "menu-21",
           "_params": {
-            "bgColor": "#0006ff",
+            "bgColor": "#0000ff",
             "fontSize": "1.1",
             "fontName": {
               "name": "Lora",

@@ -513,19 +513,19 @@ h6,
 }
 #menu-k .link[aria-expanded="true"],
 #menu-k .dropdown-menu {
-  background: #0005cc;
+  background: #0000cc;
 }
 #menu-k .nav-dropdown-sm .link:focus,
 #menu-k .nav-dropdown-sm .link:hover,
 #menu-k .nav-dropdown-sm .dropdown-item:focus,
 #menu-k .nav-dropdown-sm .dropdown-item:hover {
-  background: #0006f0!important;
+  background: #0000f0!important;
 }
 #menu-k .navbar,
 #menu-k .nav-dropdown-sm,
 #menu-k .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-k .nav-dropdown-sm .dropdown-menu {
-  background: #0006ff;
+  background: #0000ff;
 }
 #menu-k .bg-color.transparent .link {
   color: #ffe500;
@@ -954,19 +954,19 @@ h6,
 }
 #menu-21 .link[aria-expanded="true"],
 #menu-21 .dropdown-menu {
-  background: #0005cc;
+  background: #0000cc;
 }
 #menu-21 .nav-dropdown-sm .link:focus,
 #menu-21 .nav-dropdown-sm .link:hover,
 #menu-21 .nav-dropdown-sm .dropdown-item:focus,
 #menu-21 .nav-dropdown-sm .dropdown-item:hover {
-  background: #0006f0!important;
+  background: #0000f0!important;
 }
 #menu-21 .navbar,
 #menu-21 .nav-dropdown-sm,
 #menu-21 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-21 .nav-dropdown-sm .dropdown-menu {
-  background: #0006ff;
+  background: #0000ff;
 }
 #menu-21 .bg-color.transparent .link {
   color: #ffe500;
